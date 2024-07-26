@@ -795,6 +795,7 @@ input, select, textarea {
 			-ms-justify-content: center;
 			justify-content: center;
 			width: 100%;
+			transform: translate(-50%, -50%);
 			margin-left: 0;
 		}
 
